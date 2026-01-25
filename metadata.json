@@ -1,0 +1,8 @@
+{
+  "name": "LunarCraft AI",
+  "description": "A futuristic Chinese New Year goods generator powered by Gemini. Create Couplets, IP Figures, and Greetings using Multimodal AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
